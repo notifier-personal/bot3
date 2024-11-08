@@ -2,8 +2,8 @@ from library import *
 import os
 
 
-x = 2  # Starting row index (inclusive) Row starts from 0 x=2 means Row 3
-y = 30  # Ending row index (exclusive) 15 Row pomints to 14 row, but since it starts from 0 it points to 15 row
+x = 29  # Starting row index (inclusive) Row starts from 0 x=2 means Row 3
+y = 39  # Ending row index (exclusive) 15 Row pomints to 14 row, but since it starts from 0 it points to 15 row
 
 
 # Access secrets from environment variables
